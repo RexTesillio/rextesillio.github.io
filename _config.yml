@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Keep calm and Carry on"
 title_separator          : "-"
 name                     : "Rex"
-description              : "D-45"
+description              : "Life Log"
 url                      : "https://rextesillio.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rex"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
